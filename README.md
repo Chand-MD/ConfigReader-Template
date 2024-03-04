@@ -1,6 +1,6 @@
 # ConfigReader Template Overview
 
-The **Config Reader** reusable template fetches the config node values configured in the `config.xml` file into respective variables for further usage in the Parent bot. Before reading the node, it verifies if the given XML is valid. If valid, it fetches the node values; otherwise, it logs the required details and terminates the bot. Feel free to customize the nodes and logic as per your needs.
+The **Config Reader** reusable template fetches the config node values configured in the `config.xml` file into respective variables for further usage in the Parent bot. Before reading the node, it verifies if the given XML is valid. If valid, it fetches the node values otherwise, it logs the required details and terminates the bot. Feel free to customize the nodes and logic as per your needs.
 
 ## Instructions
 
