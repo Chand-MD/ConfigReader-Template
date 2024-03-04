@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <ProjectName>Sample Project</ProjectName>
+    <RootFolderPath>/path/to/root/folder</RootFolderPath>
+    <DevURL1>http://example.com/dev1</DevURL1>
+</config>
